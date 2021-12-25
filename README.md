@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Len Tian
 
 ```java
-Hello world !
+public static void main(String[] args) {
+    System.out.println("Hello world !");
+}
 ```
 
 ```plantuml
