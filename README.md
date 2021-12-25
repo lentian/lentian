@@ -1,16 +1,10 @@
-### Hi there 👋 I'm Len Tian
+### Hi there 👋  I'm Len Tian
 
 ```
-"Hello world !
+😄: Hello world !
 ```
 
-```plantuml
-@startuml
-You -> here : access to
-
-here --> You : Hello world !
-@enduml
-```
+![avatar](/hello_world.png)
 
 <!--
 **lentian/lentian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
