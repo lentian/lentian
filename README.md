@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Len Tian
 
-```java
-public static void main(String[] args) {
-    System.out.println("Hello world !");
-}
+```
+"Hello world !
 ```
 
 ```plantuml
 @startuml
 You -> here : access to
+
+here --> You : Hello world !
 @enduml
 ```
 
