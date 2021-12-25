@@ -1,5 +1,15 @@
 ### Hi there 👋 I'm Len Tian
 
+```java
+Hello world !
+```
+
+```plantuml
+@startuml
+You -> here
+@enduml
+```
+
 <!--
 **lentian/lentian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
