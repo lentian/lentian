@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Len Tian
 
 ```
-😄 $ Hello world !
+Here $ Hello world !
 ```
 
 ![avatar](/helloworld.png)
