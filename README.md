@@ -8,7 +8,7 @@ public static void main(String[] args) {
 
 ```plantuml
 @startuml
-You -> here
+You -> here : access to
 @enduml
 ```
 
