@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Len Tian 😄
 
 ```
-$ Hello, World !
+$ Hello, World!
 ```
 
 <!--
