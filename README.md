@@ -1,10 +1,16 @@
-### Hi there 👋  I'm Len Tian
+### Hi there 👋  I'm Len Tian 😄
 
 ```
 $ Hello world !
 ```
 
+<!--
 ![avatar](/imgs/helloworld.png)
+-->
+
+<div align="center">
+  <img src="/imgs/helloworld.png" />
+</div>
 
 <!--
 **lentian/lentian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
