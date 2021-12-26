@@ -4,13 +4,7 @@
 $ Hello, World!
 ```
 
-<!--
-![avatar](/imgs/helloworld.png)
--->
-
-<div align="center">
-  <img src="/imgs/helloworld.png" />
-</div>
+![](/imgs/helloworld.png)
 
 <!--
 **lentian/lentian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
