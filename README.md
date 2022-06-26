@@ -1,7 +1,12 @@
 ### Hi there 👋  I'm Len Tian 😄
 
 ```bash
-$ Hello, World !
+$ echo "Hello, World !"
+```
+
+Print :
+```
+Hello, World !
 ```
 
 ![](/imgs/helloworld.png)
