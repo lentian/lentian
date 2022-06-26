@@ -1,9 +1,5 @@
 ### Hi there 👋  I'm Len Tian 😄
 
-```shell
-$ Hello, World !
-```
-
 ```bash
 $ Hello, World !
 ```
