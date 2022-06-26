@@ -4,7 +4,7 @@
 $ echo "Hello, World !"
 ```
 
-Print :
+Output :
 ```
 Hello, World !
 ```
